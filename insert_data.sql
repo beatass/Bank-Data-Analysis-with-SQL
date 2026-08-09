@@ -3,10 +3,10 @@
 /* INSERT INTO TABLES VALUES*/
 
 INSERT INTO Customer VALUES
-(1, 'standart', 25, 1900),
+(1, 'standard', 25, 1900),
 (2, 'premium',  34, 2600),
 (3, 'VIP', 44, 5000),
-(4, 'standart', 28, 4500),
+(4, 'standard', 28, 4500),
 (5, 'premium', 35, 5000),
 (6, 'VIP', 42, 11000)
 
