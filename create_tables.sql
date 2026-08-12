@@ -5,7 +5,7 @@
 CREATE TABLE Customer
 (customer_id int,
 customer_type varchar(50),
-age int,
+age  int,
 income int
 )
 
