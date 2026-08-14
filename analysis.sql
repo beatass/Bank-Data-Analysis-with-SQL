@@ -34,7 +34,8 @@ GROUP BY transaction_year
 ORDER BY SumTransactions DESC
 
 -- 5. What is the average income of a customer in their segment (customer type)?
-
+-- Solution with OVER(PARTITION ) procedure
+	
 SELECT a.customer_id, customer_type, avg_income
 FROM
 	(SELECT customer_id, customer_type,  AVG(income)  OVER(PARTITION BY  customer_type) as avg_income
