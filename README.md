@@ -49,9 +49,9 @@ The dataset was prepared/created especially for this project and contains sample
 
 ## Files in this repository include:
 
--	script for creating database - **create_tables.sql**
+-	script for creation of database - **create_tables.sql**
 -	script for insert data - **insert_data.sql**
--	script for bank data analysis -**analysis.sql**
+-	script for analysis of bank data -**analysis.sql**
 
 ## Technologies:
 
