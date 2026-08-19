@@ -8,7 +8,7 @@ The project includes the analysis of example bank data which contains informatio
 
 ### Dataset origin
 
-The dataset was prepared/created especially for this project and contains sample data about bank customers and transactions. It includes two tables named **Customer** and **Transactions**.
+The dataset was **prepared/created** especially for this project and contains sample data about bank customers and transactions. It includes two tables named **Customer** and **Transactions**.
 
 #### Table descriptions:  
 
