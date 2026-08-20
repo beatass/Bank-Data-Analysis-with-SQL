@@ -40,12 +40,12 @@ The dataset was **prepared/created** especially for this project and contains sa
 
 ### SQL skills used in this project:  
 
-- creating tables and insert data,
-- grouping, 
-- JOINS,
-- aggregate functions,
-- subqueries,
-- window functions etc.
+- **creating tables** and **insert data**,
+- **grouping**, 
+- **JOINS**,
+- **aggregate functions**,
+- **subqueries**,
+- **window functions** etc.
 
 ## Files in this repository include:
 
