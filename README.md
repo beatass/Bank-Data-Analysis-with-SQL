@@ -1,6 +1,6 @@
 # Bank Data Analysis
 
-Project refers to analysis of bank data **i.e. customers and transactions** with **MS SQL Server database**.
+The project refers to analysis of bank data **i.e. customers and transactions** with **MS SQL Server database**.
 
 ## Relevant information
 
