@@ -23,7 +23,7 @@ GROUP BY customer_type
 HAVING AVG(age) <= 40 
 ORDER BY SUM(income)
 
--- 4. What is the sum of incoming VIP customer transactions, broken down by transaction year?
+-- 4. What is the sum of incoming VIP customer transactions broken down by transaction year?
 
 SELECT SUM(amount) AS SumTransactions, transaction_year
 FROM Transactions tra
