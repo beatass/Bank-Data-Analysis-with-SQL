@@ -18,14 +18,14 @@ The dataset was **prepared/created** especially for this project and contains sa
 - **age**: customer's age
 - **income**: customer's income/earnings (**total value**)
 
-#### Transactions
+#### Transactions: 
 - **customer_id**: customer identifier associated with the transaction
 - **transaction_type**: transaction type  (**incoming, outgoing**)
 - **amount**: transaction amount
 - **transaction_month**: transaction month (**1-12**)
 - **transaction_year**: transaction year
 
-## Data Insights
+## Data Insights:
 
 1. What is the number of customers, average age of customers, total income?
 2. How information about **VIP** customers?
