@@ -4,7 +4,7 @@ The project refers to analysis of bank data **i.e. customers and transactions** 
 
 ## Relevant information
 
-The project includes the analysis of example bank data containing information about **Customers** and **Transactions**. The analysis was prepared with **MS SQL Server** database.
+The project includes the analysis of example bank data containing information about Customers and Transactions. The analysis was prepared with MS SQL Server database.
 
 ### Dataset origin
 
