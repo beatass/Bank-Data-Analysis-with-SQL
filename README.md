@@ -2,7 +2,7 @@
 
 The project refers to analysis of bank data **i.e. customers and transactions** with **MS SQL Server** database.
 
-## Relevant information
+## Relevant information 
 
 The project includes the analysis of example bank data containing information about Customers and Transactions. The analysis was prepared with MS SQL Server database.
 
@@ -21,7 +21,7 @@ The dataset was **prepared/created** especially for this project and contains sa
 #### Transactions: 
 - **customer_id**: customer identifier associated with the transaction
 - **transaction_type**: transaction type  (**incoming, outgoing**)
-- **amount**: transaction amount
+- **amount**: transaction amount 
 - **transaction_month**: transaction month (**1-12**)
 - **transaction_year**: transaction year
 
