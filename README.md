@@ -25,7 +25,7 @@ The dataset was **prepared/created** especially for this project and contains sa
 - **transaction_month**: transaction month (**1-12**)
 - **transaction_year**: transaction year
 
-## Data Insights:
+## Data Insights: 
 
 1. What is the number of customers, average age of customers, total income?
 2. How information about **VIP** customers?
